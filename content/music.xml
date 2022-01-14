@@ -1,0 +1,155 @@
+<music root="music/">
+	<!-- Mudeth -->
+    <track name="Basement mudeth" intro="mudeth/Diptera Sonata Intro.ogg" path="mudeth/Diptera Sonata(Basement).ogg" layerintro="mudeth/Diptera Layer Intro.ogg" layer="mudeth/Diptera Layer.ogg" loop="true" />
+	<track name="Caves mudeth" intro="mudeth/The Caves Intro.ogg" path="mudeth/The Caves.ogg" layerintro="mudeth/The Caves Layer Intro.ogg" layer="mudeth/The Caves Layer.ogg" loop="true" />
+	<track name="Depths mudeth" intro="mudeth/The Depths Intro.ogg" path="mudeth/The Depths.ogg" layerintro="mudeth/The Depths Layer Intro.ogg" layer="mudeth/The Depths Layer.ogg" loop="true" />
+	<track name="Cellar mudeth" intro="mudeth/The Cellar Alt Intro.ogg" path="mudeth/The Cellar Alt.ogg" layerintro="mudeth/The Cellar Layer Intro.ogg" layer="mudeth/The Cellar Layer.ogg" loop="true" />
+	<track name="Catacombs mudeth" intro="mudeth/Catacombs Intro.ogg" path="mudeth/Catacombs.ogg" layerintro="mudeth/Catacombs Layer Intro.ogg" layer="mudeth/Catacombs Layer.ogg" loop="true" />
+	<track name="Necropolis mudeth" intro="mudeth/Necropolis Intro.ogg" path="mudeth/Necropolis.ogg" layerintro="mudeth/Necropolis Layer Intro.ogg" layer="mudeth/Necropolis Layer.ogg" loop="true" />
+	<track name="Womb mudeth" intro="mudeth/The Womb Chapter Four Intro.ogg" path="mudeth/The Womb Chapter Four.ogg" layerintro="mudeth/The Womb Layer Intro.ogg" layer="mudeth/The Womb Layer.ogg" loop="true" />
+	<track name="Game Over mudeth" path="mudeth/You Died.ogg" loop="true" />
+	<!--<track id="9" name="Boss" path="mudeth/Fight Ogg/Basic Boss Fight.ogg" loop="true" /> -->
+    <track name="Boss mudeth" intro="mudeth/Fight Ogg/Basic Boss Fight Intro.ogg" path="mudeth/Fight Ogg/Basic Boss Fight.ogg" loop="true" />
+	<track name="Cathedral mudeth" intro="mudeth/Cathedral Intro.ogg" path="mudeth/Cathedral Chant.ogg" layerintro="mudeth/Cathedral Layer Intro.ogg" layer="mudeth/Cathedral Layer.ogg" loop="true" />
+	<track name="Sheol mudeth" intro="mudeth/Sheol Intro.ogg" path="mudeth/Sheol.ogg" layerintro="mudeth/Sheol Layer Intro.ogg" layer="mudeth/Sheol Layer.ogg" loop="true" />
+	<track name="Dark Room mudeth" intro="mudeth/Dark Room Alt Chapter 6 intro.ogg" path="mudeth/Dark Room Alt Chapter 6.ogg" loop="true" />
+	<track name="Chest mudeth" intro="mudeth/Chest Room Intro.ogg" path="mudeth/Chest Room Chapter 6.ogg" layerintro="mudeth/Chest Layer Intro.ogg" layer="mudeth/Chest Layer.ogg" loop="true" />
+	<track name="Burning Basement mudeth" intro="mudeth/Afterbirth/burning basement Intro.ogg" path="mudeth/Afterbirth/burning basement Loop.ogg" layerintro="mudeth/Afterbirth/burning basement Intro silent.ogg" layer="mudeth/Afterbirth/Burning Basement GUitar Layer_04.ogg" loop="true" />
+	<track name="Flooded Caves mudeth" intro="mudeth/Afterbirth/Kave Diluvii (Flooded Caves)Intro.ogg" path="mudeth/Afterbirth/Kave Diluvii (Flooded Caves) loop.ogg" layerintro="mudeth/Afterbirth/Kave Diluvii (Flooded Caves)Intro silent.ogg" layer="mudeth/Afterbirth/Kave Diluvii (Flooded Caves) Layer.ogg" loop="true" />
+	<track name="Dank Depths mudeth" intro="mudeth/Afterbirth/Pulso Profundum (dank Depths ) intro.ogg" path="mudeth/Afterbirth/Pulso Profundum (dank Depths ) Loop.ogg" layerintro="mudeth/Afterbirth/Pulso Profundum (dank Depths ) intro silent.ogg" layer="mudeth/Afterbirth/Pulso Profundum (dank Depths ) Layer.ogg" loop="true" />
+	<track name="Scarred Womb mudeth" intro="mudeth/Afterbirth/Cicatrix (Scarred Womb) Intro.ogg" path="mudeth/Afterbirth/Cicatrix (Scarred Womb) Loop.ogg" layerintro="mudeth/Afterbirth/Cicatrix (Scarred Womb) Intro silent.ogg" layer="mudeth/Afterbirth/Cicatrix (Scarred Womb) Layer.ogg" loop="true" />
+	<track name="Blue Womb mudeth" intro="mudeth/Afterbirth/Nativitate  (Dead Womb Floor) Intro.ogg" path="mudeth/Afterbirth/Nativitate (Dead Womb Floor) Loop.ogg" layerintro="mudeth/Afterbirth/Nativitate  (Dead Womb Floor) Intro silence.ogg" layer="mudeth/Afterbirth/Nativitate (Dead Womb Floor) Layer.ogg" loop="true" />
+	<track name="Utero mudeth" path="mudeth/Utero.ogg" layer="mudeth/Utero Heavy.ogg" loop="true" layermode="2" layerfadespeed="0.005" />
+	<track name="Boss (Depths - Mom) mudeth" path="mudeth/Fight Ogg/Mom Fight.ogg" loop="true" />
+	<track name="Boss (Womb - Mom's Heart) mudeth" path="mudeth/Fight Ogg/Womb Fight.ogg" loop="true" />
+	<track name="Boss (Cathedral - Isaac) mudeth" path="mudeth/Fight Ogg/Isaac Fight.ogg" loop="true" />
+	<!-- <track id="23" name="Boss (Sheol - Satan)" path="mudeth/Fight Ogg/Satan Fight.ogg" loop="true" /> -->
+    <track name="Boss (Sheol - Satan) mudeth" intro="mudeth/Fight Ogg/Satan Fight Intro.ogg" path="mudeth/Fight Ogg/Satan Fight.ogg" loop="true" />
+	<!-- <track id="24" name="Boss (Dark Room)" path="mudeth/Fight Ogg/Dark Room Fight.ogg" loop="true" /> -->
+    <track name="Boss (Dark Room) mudeth" intro="mudeth/Fight Ogg/Dark Room Fight Intro.ogg" path="mudeth/Fight Ogg/Dark Room Fight.ogg" loop="true" />
+	<!-- <track id="25" name="Boss (Chest - ???)" path="mudeth/Fight Ogg/Chest Fight.ogg" loop="true" /> -->
+    <track name="Boss (Chest - ???) mudeth" intro="mudeth/Fight Ogg/Chest Fight Intro.ogg" path="mudeth/Fight Ogg/Chest Fight.ogg" loop="true" />
+	<track name="Boss (alternate) mudeth" intro="mudeth/Afterbirth/Cerebrum Dispersio (boss alt ) intro.ogg" path="mudeth/Afterbirth/Cerebrum Dispersio (boss alt) Loop.ogg" loop="true" />
+	<track name="Boss (Blue Womb - Hush) mudeth" intro="mudeth/Afterbirth/Morituros (dead womb boss) intro.ogg" path="mudeth/Afterbirth/Morituros (dead womb boss) Loop.ogg" loop="true" />
+	<track name="Boss (Ultra Greed) mudeth" intro="mudeth/Afterbirth/Chorus Mortis (Punk Credit) Intro.ogg" path="mudeth/Afterbirth/Chorus Mortis (Punk Credit) Loop.ogg" loop="true" />
+	<track name="Library Room mudeth" intro="mudeth/Library Intro.ogg" path="mudeth/Library.ogg" loop="true" />
+	<track name="Secret Room mudeth" intro="mudeth/Secret to Everyone Intro.ogg" path="mudeth/Secret to Everyone.ogg" loop="true" />
+	<track name="Secret Room Alt mudeth" path="mudeth/Secret Room ALT.ogg" loop="true" />
+	<!-- <track id="33" name="Devil Room" path="mudeth/Deal With the Devil.ogg" loop="true" /> -->
+    <track name="Devil Room mudeth" intro="mudeth/Deal With the Devil Intro.ogg" path="mudeth/Deal With the Devil.ogg" loop="true" />
+	<track name="Angel Room mudeth" intro="mudeth/Angel Room intro.ogg" path="mudeth/Angel Room.ogg" loop="true" />
+	<track name="Shop Room mudeth" intro="mudeth/Store Loop Intro.ogg" path="mudeth/Store Loop.ogg" loop="true" />
+	<track name="Arcade Room mudeth" intro="mudeth/Retro Beats Intro 8-6-14.ogg" path="mudeth/Retro Beats 8-6-14.ogg" loop="true" />
+	<track name="Boss Room (empty) mudeth" intro="mudeth/The Calm intro.ogg" path="mudeth/The Calm.ogg" loop="true" />
+	<!-- <track id="38" name="Challenge Room (fight)" path="mudeth/Ambush.ogg" loop="true" /> -->
+    <track name="Challenge Room (fight) mudeth" intro="mudeth/Ambush Intro.ogg" path="mudeth/Ambush.ogg" loop="true" />
+	<!-- <track id="39" name="Boss Rush" path="mudeth/Boss Rush.ogg" loop="true" /> -->
+    <track name="Boss Rush mudeth" intro="mudeth/Boss Rush Intro.ogg" path="mudeth/Boss Rush.ogg" loop="true" />
+	<!-- <track id="40" name="Boss Rush (jingle)" path="mudeth/JINGLE OGG/Ambush Jinle outro V3_04.ogg" loop="false" /> -->
+    <track name="Boss Rush (jingle) mudeth" path="mudeth/JINGLE OGG/Boss rush outro.ogg" loop="false" />
+<!-- REPENTANCE BEGIN -->
+	<!-- <track id="41" name="Boss (alternate alternate)" path="mudeth/Repentance/Boss ALT.ogg" loop="true" /> -->
+    <track name="Boss (alternate alternate) mudeth" intro="mudeth/Repentance/Boss ALT Intro.ogg" path="mudeth/Repentance/Boss ALT.ogg" loop="true" />
+	<!-- <track id="42" name="Boss Death Alternate Alternate (jingle)" path="mudeth/Repentance/Alt Boss Track Jingle.ogg" loop="false" mul="2.2" /> -->
+	<track name="Boss Death Alternate Alternate (jingle) mudeth" path="mudeth/Repentance/Alt Boss Track Jingle.ogg" loop="false" />
+	<!-- <track id="43" name="Boss (Mother)" path="mudeth/Repentance/MOTHER_BOSS_V6.ogg" loop="true" mul="1.25" /> -->
+	<track name="Boss (Mother) mudeth" path="mudeth/Repentance/MOTHER_BOSS_V6.ogg" loop="true"/>
+	<!-- <track id="50" name="Planetarium" path="mudeth/Repentance/Planetarium.ogg" loop="true" /> -->
+    <track name="Planetarium mudeth" intro="mudeth/Repentance/Planetarium Intro.ogg" path="mudeth/Repentance/Planetarium.ogg" loop="true" />
+	<track name="Secret Room Alt Alt mudeth" intro="mudeth/Repentance/Super Secret Room Intro.ogg" path="mudeth/Repentance/Super Secret Room Loop.ogg" loop="true" />
+	<track name="Boss Room (empty, twisted) mudeth" intro="mudeth/Repentance/The Calm Twisted V4 Intro.ogg" path="mudeth/Repentance/The Calm Twisted V4 Loop.ogg" loop="true" mul="1.2" />
+<!-- REPENTANCE END -->
+	<!-- <track id="60" name="Credits" path="mudeth/Credits Roll.ogg" loop="true" /> -->
+    <track name="Credits mudeth" intro="mudeth/Credits Roll Intro.ogg" path="mudeth/Credits Roll.ogg" loop="true" />
+	<track name="Title Screen (Afterbirth) mudeth" intro="mudeth/Afterbirth/ReGenesis V3 intro.ogg" path="mudeth/Afterbirth/ReGenesis (loop) V3.ogg" loop="true" />
+<!-- REPENTANCE BEGIN -->
+	<track name="Title Screen (Repentance) mudeth" intro="mudeth/Repentance/Genesis Retake Light Intro.ogg" path="mudeth/Repentance/Genesis Retake Light Loop.ogg" layerintro="mudeth/Repentance/Genesis Retake Twisted Intro.ogg" layer="mudeth/Repentance/Genesis Retake Twisted Loop.ogg" loop="true" layermode="2" layerfadespeed="0.01" />
+	<track name="Game start (jingle, twisted) mudeth" path="mudeth/Repentance/Title Screen Stinger MB.ogg" loop="false" />
+<!-- REPENTANCE END -->
+	<track name="Credits Alt mudeth" path="mudeth/Jesus Loves Uke.ogg" loop="false" />
+<!-- REPENTANCE BEGIN -->
+	<!-- <track id="71" name="Credits Alt Final" path="mudeth/Repentance/Jesus Loves Viggo V3.ogg" loop="false" mul="1.9" /> -->
+    <track name="Credits Alt Final mudeth" path="mudeth/Repentance/Jesus Loves Viggo V3.ogg" loop="false" />
+<!-- REPENTANCE END -->
+	<track name="Boss Death (jingle) mudeth" path="mudeth/JINGLE OGG/Boss FIght jingle OUTRO v2_12.ogg" loop="false" />
+	<track name="Secret Room Find (jingle) mudeth" path="mudeth/JINGLE OGG/secret room find v2_07.ogg" loop="false" />
+	<track name="Treasure Room Entry (jingle) 1 mudeth" path="mudeth/JINGLE OGG/treasure room discoverA.ogg" loop="false" />
+	<track name="Treasure Room Entry (jingle) 2 mudeth" path="mudeth/JINGLE OGG/treasure room discoverB.ogg" loop="false" />
+	<track name="Treasure Room Entry (jingle) 3 mudeth" path="mudeth/JINGLE OGG/treasure room discoverC.ogg" loop="false" />
+	<track name="Treasure Room Entry (jingle) 4 mudeth" path="mudeth/JINGLE OGG/treasure room discover_03.ogg" loop="false" />
+	<track name="Challenge Room Entry (jingle) mudeth" path="mudeth/JINGLE OGG/Ambush jingle.V2_01.ogg" loop="false" />
+	<track name="Challenge Room Outro (jingle) mudeth" path="mudeth/JINGLE OGG/Ambush Jinle outro V3_04.ogg" loop="false" />
+	<track name="Game Over (jingle) mudeth" path="mudeth/JINGLE OGG/Isaac Died_02.ogg" loop="false" />
+	<track name="Game start (jingle) mudeth" path="mudeth/JINGLE OGG/Title Screen jingle V1_01.ogg" loop="false" />
+	<track name="Boss Death Alternate (jingle) mudeth" path="mudeth/Afterbirth/Cerebrum Dispersio (boss alt) end.ogg" loop="false" />
+	<track name="Boss Hush Death (jingle) mudeth" path="mudeth/Afterbirth/Morituros (dead womb boss) outro.ogg" loop="false" />
+	<track name="Void mudeth" path="mudeth/Void.ogg" loop="true" />
+	<!-- <track id="103" name="Boss (Void)" path="mudeth/Fight Ogg/Delirium Fight.ogg" loop="true" /> -->
+    <track name="Boss (Void) mudeth" intro="mudeth/Fight Ogg/Delirium Fight Intro.ogg" path="mudeth/Fight Ogg/Delirium Fight.ogg" loop="true" />
+<!-- REPENTANCE BEGIN -->
+	<!-- <track id="104" name="Downpour" path="mudeth/Repentance/Downpour.ogg" layer="mudeth/Repentance/Downpour Heavy.ogg" loop="true" layermode="2" layerfadespeed="0.005" /> -->
+    <track name="Downpour mudeth" intro="mudeth/Repentance/Downpour Intro.ogg" path="mudeth/Repentance/Downpour.ogg" loop="true" />
+	<!--<track id="105" name="Mines" path="mudeth/Repentance/Mines.ogg" layer="mudeth/Repentance/Mines Heavy.ogg" loop="true" layermode="2" mul="1.15" layermul="1.35" layerfadespeed="0.005" /> -->
+	<track name="Mines mudeth" intro="mudeth/Repentance/Mines Intro.ogg" path="mudeth/Repentance/Mines.ogg"loop="true" />
+	<!-- <track id="106" name="Mausoleum" path="mudeth/Repentance/Mausoleum.ogg" layer="mudeth/Repentance/Mausoleum Heavy.ogg" loop="true" layermode="2" layermul="1.2" layerfadespeed="0.005" /> -->
+    <track name="Mausoleum mudeth" intro="mudeth/Repentance/Mausoleum Intro.ogg" path="mudeth/Repentance/Mausoleum.ogg" loop="true" />
+	<!-- <track id="107" name="Corpse" path="mudeth/Repentance/Corpse.ogg" layer="mudeth/Repentance/Corpse Layer.ogg" loop="true" layerfadespeed="0.005" /> -->
+    <track name="Corpse mudeth" intro="mudeth/Repentance/Corpse Intro.ogg" path="mudeth/Repentance/Corpse.ogg" layer="mudeth/Repentance/Corpse Layer.ogg" loop="true" layerfadespeed="0.005" />
+	<track name="not done mudeth" intro="mudeth/The Womb Chapter Four Intro.ogg" path="mudeth/The Womb Chapter Four.ogg" layerintro="mudeth/The Womb Layer Intro.ogg" layer="mudeth/The Womb Layer.ogg" loop="true" layerfadespeed="0.005" />
+	<track name="Downpour (reversed) mudeth" path="mudeth/Repentance/Downpour Reverse.ogg" loop="true" />
+	
+	<!-- DannyB -->
+    <track name="Basement dannyb" intro="dannyb/Diptera Sonata Intro.ogg" path="dannyb/Diptera Sonata(Basement).ogg" layerintro="dannyb/Diptera Layer Intro.ogg" layer="dannyb/Diptera Layer.ogg" loop="true" />
+	<track name="Caves dannyb" intro="dannyb/The Caves Intro.ogg" path="dannyb/The Caves.ogg" layerintro="dannyb/The Caves Layer Intro.ogg" layer="dannyb/The Caves Layer.ogg" loop="true" />
+	<track name="Depths dannyb" intro="dannyb/The Depths Intro.ogg" path="dannyb/The Depths.ogg" layerintro="dannyb/The Depths Layer Intro.ogg" layer="dannyb/The Depths Layer.ogg" loop="true" />
+	<track name="Cellar dannyb" intro="dannyb/The Cellar Alt Intro.ogg" path="dannyb/The Cellar Alt.ogg" layerintro="dannyb/The Cellar Layer Intro.ogg" layer="dannyb/The Cellar Layer.ogg" loop="true" />
+	<track name="Catacombs dannyb" intro="dannyb/Catacombs Intro.ogg" path="dannyb/Catacombs.ogg" layerintro="dannyb/Catacombs Layer Intro.ogg" layer="dannyb/Catacombs Layer.ogg" loop="true" />
+	<track name="Necropolis dannyb" intro="dannyb/Necropolis Intro.ogg" path="dannyb/Necropolis.ogg" layerintro="dannyb/Necropolis Layer Intro.ogg" layer="dannyb/Necropolis Layer.ogg" loop="true" />
+	<track name="Womb dannyb" intro="dannyb/The Womb Chapter Four Intro.ogg" path="dannyb/The Womb Chapter Four.ogg" layerintro="dannyb/The Womb Layer Intro.ogg" layer="dannyb/The Womb Layer.ogg" loop="true" />
+	<track name="Game Over dannyb" path="dannyb/You Died.ogg" loop="true" />
+	<track name="Boss dannyb" path="dannyb/Fight Ogg/Basic Boss Fight.ogg" loop="true" />
+    <track name="Cathedral dannyb" intro="dannyb/Cathedral Intro.ogg" path="dannyb/Cathedral Chant.ogg" layerintro="dannyb/Cathedral Layer Intro.ogg" layer="dannyb/Cathedral Layer.ogg" loop="true" />
+	<track name="Sheol dannyb" intro="dannyb/Sheol Intro.ogg" path="dannyb/Sheol.ogg" layerintro="dannyb/Sheol Layer Intro.ogg" layer="dannyb/Sheol Layer.ogg" loop="true" />
+	<track name="Dark Room dannyb" intro="dannyb/Dark Room Alt Chapter 6 intro.ogg" path="dannyb/Dark Room Alt Chapter 6.ogg" loop="true" />
+	<track name="Chest dannyb" intro="dannyb/Chest Room Intro.ogg" path="dannyb/Chest Room Chapter 6.ogg" layerintro="dannyb/Chest Layer Intro.ogg" layer="dannyb/Chest Layer.ogg" loop="true" />
+	<track name="Burning Basement dannyb" intro="dannyb/Afterbirth/burning basement Intro.ogg" path="dannyb/Afterbirth/burning basement Loop.ogg" layerintro="dannyb/Afterbirth/burning basement Intro silent.ogg" layer="dannyb/Afterbirth/Burning Basement GUitar Layer_04.ogg" loop="true" />
+	<track name="Flooded Caves dannyb" intro="dannyb/Afterbirth/Kave Diluvii (Flooded Caves)Intro.ogg" path="dannyb/Afterbirth/Kave Diluvii (Flooded Caves) loop.ogg" layerintro="dannyb/Afterbirth/Kave Diluvii (Flooded Caves)Intro silent.ogg" layer="dannyb/Afterbirth/Kave Diluvii (Flooded Caves) Layer.ogg" loop="true" />
+	<track name="Dank Depths dannyb" intro="dannyb/Afterbirth/Pulso Profundum (dank Depths ) intro.ogg" path="dannyb/Afterbirth/Pulso Profundum (dank Depths ) Loop.ogg" layerintro="dannyb/Afterbirth/Pulso Profundum (dank Depths ) intro silent.ogg" layer="dannyb/Afterbirth/Pulso Profundum (dank Depths ) Layer.ogg" loop="true" />
+	<track name="Scarred Womb dannyb" intro="dannyb/Afterbirth/Cicatrix (Scarred Womb) Intro.ogg" path="dannyb/Afterbirth/Cicatrix (Scarred Womb) Loop.ogg" layerintro="dannyb/Afterbirth/Cicatrix (Scarred Womb) Intro silent.ogg" layer="dannyb/Afterbirth/Cicatrix (Scarred Womb) Layer.ogg" loop="true" />
+	<track name="Blue Womb dannyb" intro="dannyb/Afterbirth/Nativitate  (Dead Womb Floor) Intro.ogg" path="dannyb/Afterbirth/Nativitate (Dead Womb Floor) Loop.ogg" layerintro="dannyb/Afterbirth/Nativitate  (Dead Womb Floor) Intro silence.ogg" layer="dannyb/Afterbirth/Nativitate (Dead Womb Floor) Layer.ogg" loop="true" />
+	<track name="Utero dannyb" path="dannyb/Utero.ogg" layer="dannyb/Utero Heavy.ogg" loop="true" layermode="2" layerfadespeed="0.005" />
+	<track name="Boss (Depths - Mom) dannyb" path="dannyb/Fight Ogg/Mom Fight.ogg" loop="true" />
+	<track name="Boss (Womb - Mom's Heart) dannyb" path="dannyb/Fight Ogg/Womb Fight.ogg" loop="true" />
+	<track name="Boss (Cathedral - Isaac) dannyb" path="dannyb/Fight Ogg/Isaac Fight.ogg" loop="true" />
+	<track name="Boss (Sheol - Satan) dannyb" path="dannyb/Fight Ogg/Satan Fight.ogg" loop="true" />
+    <track name="Boss (Dark Room) dannyb" path="dannyb/Fight Ogg/Dark Room Fight.ogg" loop="true" />
+    <track name="Boss (Chest - ???) dannyb" path="dannyb/Fight Ogg/Chest Fight.ogg" loop="true" />
+    <track name="Boss (alternate) dannyb" intro="dannyb/Afterbirth/Cerebrum Dispersio (boss alt ) intro.ogg" path="dannyb/Afterbirth/Cerebrum Dispersio (boss alt) Loop.ogg" loop="true" />
+	<track name="Boss (Blue Womb - Hush) dannyb" intro="dannyb/Afterbirth/Morituros (dead womb boss) intro.ogg" path="dannyb/Afterbirth/Morituros (dead womb boss) Loop.ogg" loop="true" />
+	<track name="Boss (Ultra Greed) dannyb" intro="dannyb/Afterbirth/Chorus Mortis (Punk Credit) Intro.ogg" path="dannyb/Afterbirth/Chorus Mortis (Punk Credit) Loop.ogg" loop="true" />
+	<track name="Library Room dannyb" intro="dannyb/Library Intro.ogg" path="dannyb/Library.ogg" loop="true" />
+	<track name="Secret Room dannyb" intro="dannyb/Secret to Everyone Intro.ogg" path="dannyb/Secret to Everyone.ogg" loop="true" />
+	<track name="Secret Room Alt dannyb" path="dannyb/Secret Room ALT.ogg" loop="true" />
+	<track name="Devil Room dannyb" path="dannyb/Deal With the Devil.ogg" loop="true" />
+    <track name="Angel Room dannyb" intro="dannyb/Angel Room intro.ogg" path="dannyb/Angel Room.ogg" loop="true" />
+	<track name="Shop Room dannyb" intro="dannyb/Store Loop Intro.ogg" path="dannyb/Store Loop.ogg" loop="true" />
+	<track name="Arcade Room dannyb" intro="dannyb/Retro Beats Intro 8-6-14.ogg" path="dannyb/Retro Beats 8-6-14.ogg" loop="true" />
+	<track name="Boss Room (empty) dannyb" intro="dannyb/The Calm intro.ogg" path="dannyb/The Calm.ogg" loop="true" />
+	<track name="Challenge Room (fight) dannyb" path="dannyb/Ambush.ogg" loop="true" />  
+	<track name="Credits dannyb" path="dannyb/Credits Roll.ogg" loop="true" />
+    <track name="Title Screen (Afterbirth) dannyb" intro="dannyb/Afterbirth/ReGenesis V3 intro.ogg" path="dannyb/Afterbirth/ReGenesis (loop) V3.ogg" loop="true" />
+	<track name="Boss Death (jingle) dannyb" path="dannyb/JINGLE OGG/Boss FIght jingle OUTRO v2_12.ogg" loop="false" />
+	<track name="Secret Room Find (jingle) dannyb" path="dannyb/JINGLE OGG/secret room find v2_07.ogg" loop="false" />
+	<track name="Treasure Room Entry (jingle) 1 dannyb" path="dannyb/JINGLE OGG/treasure room discoverA.ogg" loop="false" />
+	<track name="Treasure Room Entry (jingle) 2 dannyb" path="dannyb/JINGLE OGG/treasure room discoverB.ogg" loop="false" />
+	<track name="Treasure Room Entry (jingle) 3 dannyb" path="dannyb/JINGLE OGG/treasure room discoverC.ogg" loop="false" />
+	<track name="Treasure Room Entry (jingle) 4 dannyb" path="dannyb/JINGLE OGG/treasure room discover_03.ogg" loop="false" />
+	<track name="Challenge Room Entry (jingle) dannyb" path="dannyb/JINGLE OGG/Ambush jingle.V2_01.ogg" loop="false" />
+	<track name="Challenge Room Outro (jingle) dannyb" path="dannyb/JINGLE OGG/Ambush Jinle outro V3_04.ogg" loop="false" />
+	<track name="Game Over (jingle) dannyb" path="dannyb/JINGLE OGG/Isaac Died_02.ogg" loop="false" />
+	<track name="Game start (jingle) dannyb" path="dannyb/JINGLE OGG/Title Screen jingle V1_01.ogg" loop="false" />
+	<track name="Boss Death Alternate (jingle) dannyb" path="dannyb/Afterbirth/Cerebrum Dispersio (boss alt) end.ogg" loop="false" />
+	<track name="Boss Hush Death (jingle) dannyb" path="dannyb/Afterbirth/Morituros (dead womb boss) outro.ogg" loop="false" />
+	<track name="Void dannyb" path="dannyb/Void.ogg" loop="true" />
+	<track name="Boss (Void) dannyb" path="dannyb/Fight Ogg/Delirium Fight.ogg" loop="true" />
+</music>
