@@ -58,10 +58,10 @@ local trackNamesToAmount = {
   ['Credits Alt Final'] = 2,
   ['Boss Death (jingle)'] = 3,
   ['Secret Room Find (jingle)'] = 3,
-  ['Treasure Room Entry (jingle) 1'] = 3,
-  ['Treasure Room Entry (jingle) 2'] = 3,
-  ['Treasure Room Entry (jingle) 3'] = 3,
-  ['Treasure Room Entry (jingle) 4'] = 3,
+  --['Treasure Room Entry (jingle) 1'] = 3,
+  --['Treasure Room Entry (jingle) 2'] = 3,
+  --['Treasure Room Entry (jingle) 3'] = 3,
+  --['Treasure Room Entry (jingle) 4'] = 3,
   ['Challenge Room Entry (jingle)'] = 3,
   ['Challenge Room Outro (jingle)'] = 3,
   ['Game Over (jingle)'] = 3,
@@ -106,22 +106,35 @@ local function UpdateMusicToRandom()
 end
 
 local currentMusic = MMC.GetMusicTrack()
+-- To not change the music in these rooms
 local roomsWithStageMusic = {
   RoomType.ROOM_DEFAULT, 
   RoomType.ROOM_TREASURE, 
   RoomType.ROOM_CHALLENGE,
   RoomType.ROOM_CURSE,
-  RoomType.ROOM_SACRIFICE,
+  RoomType.ROOM_SACRIFICE, 
+  RoomType.ROOM_BLACK_MARKET, 
+  RoomType.ROOM_CHEST, 
+  RoomType.ROOM_DICE, 
+  RoomType.ROOM_ERROR, 
+  RoomType.ROOM_DUNGEON, 
+  RoomType.ROOM_ISAACS,
+  RoomType.ROOM_BARREN,
+  RoomType.ROOM,
 }
 
 local function LaunchUpdateMusicToRandom()
   local newCurrentMusic = MMC.GetMusicTrack()
   local roomType = Game():GetRoom():GetType()
-  if newCurrentMusic ~= currentMusic 
+  
+  if newCurrentMusic ~= currentMusic  
   and not has_value(roomsWithStageMusic, roomType)
   and type(newCurrentMusic) ~= "table" then
-    currentMusic = newCurrentMusic
+    --if currentMusic ~= Music.MUSIC_JINGLE_GAME_START then
+    print("update" .. math.random(1,100))
     UpdateMusicToRandom()
+    --end
+    currentMusic = newCurrentMusic
   end
 end
 
